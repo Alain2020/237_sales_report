@@ -10,6 +10,17 @@ creds = ServiceAccountCredentials.from_json_keyfile_name('/workspace/237_sales_r
 
 file = gspread.authorize(creds)
 workbook = file.open('237_Sales_Report')
-sheet = workbook.sheet1
-for cell in sheet.range('A2:A6'):
-    print(cell.value)
+
+def get_sales_data():
+    """
+    Get sales figures input from the user.
+    """
+    print("Please enter sales data from the last market.")
+    print("Data should be six numbers, separated by commas.")
+    print("Example: 10,20,30,40,50,60\n")
+
+    data_str = input("Enter your data here: ")
+    print(f"The data provided is {data_str}")
+
+
+get_sales_data()
