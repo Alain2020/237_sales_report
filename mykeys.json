@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "salesreport-377201",
+  "private_key_id": "19ae95c8cdef2786dd5e1a42f4cc1f14d1153ce1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCR/jhP7bl039go\n2vsC0Bpevv68cEs9CTpjxPyyN4+X8tzbdODQukfC8agy2oWApsdGftTp5oZgJ94q\nbPNHo29xcpLLMjX1frq/ldm9ocljbQFdekPvAGT++6rezL87Gkkx0SZDQhwneEOh\n107PYTeIxOw+KyizJj4i5JsbIoe4ZjwStvhRv7+QtxC12cfS+Q40V3P3ZgqHdX8+\nCBA9u3bbdqYShgGWkWqlXyl3fRSinU4AnMJUMtN7z3a3AvY5yloUJK+MQanDnEAn\nCCrXgxQMJ9G1VGgHBLfclmrn5KM9ke/LQzVBxqmrfvDSkjBjpA8Ya79B58tFSrb4\naxsiCaOvAgMBAAECggEANQ6QVY/+IdkF/FcU+UE7DCradg5TcaOsajzZX0Vs9Jpp\nJIJ1/7VrRhBAAfdDpG04J8kJRNYoCMMEbSO6SFM/uZmbeqhNTuJXKTBi+RVWlME1\nSU0Zaj8Y9UfuIdmEOA0GA8pQXwokJD4DSkpu1FQu9BApETDrMixYUaMGMZbbfypv\n7HZ0ui+7hLjtZm09rbKZ3ZMsMHa1+Iw5mrNeggMfYHJOHXlkRIjIm8M9LZuh/lj9\n2+5Z6fsOIseZMWNBpCLrEhBhKYQoeLjdo1DiUuuChbvQTvnhYnT0qpiv1lBzYK+h\nta6TAZVPVdMUAYoqrC9dvFCqXcb1UEdYvtlmJ4v5uQKBgQDDnN9vpr17EhQNcYmN\nb6VQdWIKCHGqGuE66ARRqT3ud0MlIRgJzN98w+YVsUPjFp+RK5n9GQcf5FZKwh6Z\n1DwS5TG1s5JljjDj9/zjxG1cWFziAPS+clXquNynWJcOtrY0Hmh4i4SmXoEKfIyC\nlCaekuDkkFIB0/QB5Hj/aNbd+QKBgQC/D/AJxVfGNPOim6oDgeBeAK9IdMByS8Mf\neaP2lfpE5saybPt6jx7/P+pYMeRkmLkJeXAE0gp7e0A6G2YSggs0WNYPckq8nnA4\nSZvFsVtXSVvD5Bg0BDyeqFSJRAznrijloNLtKf5EQHtJel20wAysbmhUFjPn1i8P\nxVM0NBgY5wKBgQCD+j6CPTSQaYUgAN92jsIxw9Duxf2ycEpQDSSE2DQRxWOHFIn8\nar7Klf2R2zTbbXMhZhKSQiWdbdiOveQZk6kocnyUhGCcpk/0L2fvYKMMcA3S6iQ2\nrjurjyhIvCvG4J2UEoQX+MH54b8cjSXcIAriaGTVsU2zMAbsk/LTGDAIOQKBgHw7\n6sMPtNFG4RzcxyHcs32sSE1+zRwEs22l9L2EK+XdgVnHj4XTxj4G22RZnL7kp3zH\nn9UilnpQXCTsZ+Sk9pAlK5uDn6EiDKotAsL7Xf9VzfuEN1CraJdpsP5IZ3PGRQV7\nG2vnIFRU8VWH4aKENjlw2RnEDiAznwpMLpwFO54FAoGAFqIJ7cs0e3E1pCMfHuEJ\nze0NSok7BRlwd75wlROPtv6iTtGbc67sMwrCFMEDFTK1MnNi8VgMQzmWEPeen+T5\nUOx13feskC/JOoEXhAAsiY/SjUUq+aJp/1nYpuMnF3WRxD8iZ5P0nT35P0Do3Z0t\n8ftwyld7Ze0WnRZ2BG6HskQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "solino20x@salesreport-377201.iam.gserviceaccount.com",
+  "client_id": "115320798265867061949",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/solino20x%40salesreport-377201.iam.gserviceaccount.com"
+}
